@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎来到我的主页，我是一个前端开发，这里会记录我的一些学习笔记 👋
 
 <!--
 **EricWong1994/EricWong1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
