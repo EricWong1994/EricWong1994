@@ -1,6 +1,6 @@
-### 一个前端
-### 记录学习、成长的地方
-### 希望对你也有所帮助
+### 我，一个前端。
+### 这，是记录学习、成长的地方
+### 希望能够对你也有所帮助  ❤️
 
 <!--
 **EricWong1994/EricWong1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
